@@ -1,0 +1,25 @@
+{
+  "name": "blockchainecommerce",
+  "version": "1.0.0",
+  "description": "A blockchain Ecommerce app with ERC20 token payment",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayroy247/BlockchainEcommerce.git"
+  },
+  "author": "Kayode Okunlade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kayroy247/BlockchainEcommerce/issues"
+  },
+  "homepage": "https://github.com/kayroy247/BlockchainEcommerce#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.2.0"
+  }
+}
