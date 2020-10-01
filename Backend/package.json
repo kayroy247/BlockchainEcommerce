@@ -13,8 +13,10 @@
     "@koa/cors": "^3.1.0",
     "@koa/router": "^9.4.0",
     "ethers": "^5.0.14",
+    "express": "^4.17.1",
     "koa": "^2.13.0",
     "koa-router": "^9.4.0",
-    "mongoose": "^5.10.7"
+    "mongoose": "^5.10.7",
+    "nodemon": "^2.0.4"
   }
 }
